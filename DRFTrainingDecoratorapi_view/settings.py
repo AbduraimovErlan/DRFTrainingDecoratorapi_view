@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'decoratorApi_view',
     'decoratorApi_view2',
+    'decoratorApi_view3',
 ]
 
 MIDDLEWARE = [

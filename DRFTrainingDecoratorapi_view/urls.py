@@ -5,4 +5,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/v1/', include('decoratorApi_view.urls')),
     path('api/v1/', include('decoratorApi_view2.urls')),
+    path('api/v1/', include('decoratorApi_view3.urls')),
 ]
