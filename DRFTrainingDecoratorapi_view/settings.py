@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'decoratorApi_view',
+    'decoratorApi_view2',
 ]
 
 MIDDLEWARE = [
