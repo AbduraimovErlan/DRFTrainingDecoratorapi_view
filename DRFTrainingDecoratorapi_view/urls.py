@@ -23,4 +23,5 @@ urlpatterns = [
     path('api/v1/', include('decoratorApi_view18.urls')),
     path('api/v1/', include('decoratorApi_view19.urls')),
     path('api/v1/', include('decoratorApi_view20.urls')),
+    path('api/v1/', include('decoratorApi_view21.urls')),
 ]
