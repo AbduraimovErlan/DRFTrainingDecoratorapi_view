@@ -57,6 +57,7 @@ INSTALLED_APPS = [
     'decoratorApi_view17',
     'decoratorApi_view18',
     'decoratorApi_view19',
+    'decoratorApi_view20',
 ]
 
 MIDDLEWARE = [
